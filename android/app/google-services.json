@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865508499239",
+    "project_id": "dentix-b63c7",
+    "storage_bucket": "dentix-b63c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865508499239:android:b29e7e3dae6bdae44b9302",
+        "android_client_info": {
+          "package_name": "com.dentix.dentix_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865508499239-9ig11685ph69hj7vkfp3lq1q1l0pohp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dentix.dentix_app",
+            "certificate_hash": "6d2c3f6610ce05b230a098a326e851ae4b301ce4"
+          }
+        },
+        {
+          "client_id": "865508499239-p70j6mrt83q92ddtpol3uchg1v8vr4hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1puUayLQV6RcTw-bsdatHYDyIuBisFxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865508499239-p70j6mrt83q92ddtpol3uchg1v8vr4hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
